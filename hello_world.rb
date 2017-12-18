@@ -1,1 +1,1 @@
-"Hello World!".puts
+puts "Hello World!"
